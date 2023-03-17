@@ -2,7 +2,8 @@
 
 /**
  * main - main function
- *
+ * print out size of data types in C
+ * code by Sheila
  * Return: 0 if successful
  */
 
