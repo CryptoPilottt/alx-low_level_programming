@@ -8,6 +8,7 @@
  *@name: name to initialize
  *@age: age to initialize
  *@owner: owner to initialize
+ *Return: void
  */
 
 struct dog
